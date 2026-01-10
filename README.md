@@ -7,13 +7,13 @@ I use GitHub to document my learning process and build practical projects step b
 - HTML & CSS fundamentals
 - Python basics and practice projects
 - FreeCodeCamp workshops and exercises
-- Improving my Git & GitHub workflow
+
 
 ### Technologies
 - HTML
 - CSS
 - Python
-- Git & GitHub
+
 
 ### Repositories
 - **HTML / CSS Practice** – frontend layouts, basic styling, and workshop projects  
