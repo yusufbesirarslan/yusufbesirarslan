@@ -1,21 +1,28 @@
-## Hi, I'm Yusuf 👋
+# Hi, I'm Yusuf
 
-I'm a Computer Programming student with an interest in software development, currently focusing on both frontend and Python fundamentals.  
-I use GitHub to document my learning process and build practical projects step by step.
+I'm a software developer and the founder of **AxisAI**, an AI-powered fitness platform built to make personalized coaching more accessible, adaptive, and practical.
 
-### What I'm working on
-- HTML & CSS fundamentals
-- Python basics and practice projects
+I work across product development, backend systems, cloud infrastructure, and mobile applications. My main focus is turning real user problems into products that are simple to use and technically reliable.
 
-### Technologies
-- HTML
-- CSS
-- Python
+## Building AxisAI
 
+[AxisAI](https://axisaiapp.com) is being developed as an intelligent fitness system that understands each user's goals, training history, progress, and recovery.
 
-### Repositories
-- **HTML / CSS Practice** – frontend layouts, basic styling, and workshop projects  
-- **Python Learning** – small Python scripts and learning exercises
+Instead of offering the same plan to everyone, AxisAI is designed to continuously adapt its guidance as the user changes.
 
-### Goal
-To strengthen my programming foundations and gain real-world experience through internships and training programs.
+**Our mission** is to make high-quality, personalized fitness guidance available to anyone—not only professional athletes or people with access to personal coaching.
+
+**Our vision** is to create a single intelligent platform where training, nutrition, recovery, and progress work together to help people make better decisions every day.
+
+## Current Focus
+
+- Adaptive training and progression systems
+- AI-powered fitness coaching
+- Flutter mobile development
+- Scalable and secure cloud infrastructure
+- Product development driven by real user feedback
+
+## Connect
+
+- Website: [axisaiapp.com](https://axisaiapp.com)
+- Email: [yusuf@axisaiapp.com](mailto:yusuf@axisaiapp.com)
